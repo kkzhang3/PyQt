@@ -144,3 +144,4 @@ tmp
 .README.md.html
 README.md.html
 shape_predictor_68_face_landmarks.dat
+.vscode/settings.json
